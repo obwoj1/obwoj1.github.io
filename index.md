@@ -7,8 +7,8 @@ motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
 
 quick facts:
   - "🎓 Junior, Computer Science @ Morgan State University"
-  - "🔬 Research: AI-Driven Comorbidity Management in Type 1 Diabetes: A Reinforcement Learning Approach for Thyroid, Celiac, and Cardiovascular Disorders
-  - "📍 Based in Baltimore, MD
+  - "🔬 Research: AI-Driven Comorbidity Management in Type 1 Diabetes: A Reinforcement Learning Approach for Thyroid, Celiac, and Cardiovascular Disorders"
+  - "📍 Based in Baltimore, MD"
   - "🚀 Passionate about building smart systems for real-world impact"
 
 linkedin: https://www.linkedin.com/in/obwoj/
