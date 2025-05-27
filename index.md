@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Obaloluwa Wojuade
-description: CEAMLS SAIRI Summer 2025 Research Website
+description:  Oba Wojuade CEAMLS SAIRI Summer 2025 Research Website
 
 motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
 
