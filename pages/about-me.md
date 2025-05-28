@@ -6,14 +6,14 @@ permalink: /about-me.html
 about:
   name: Obaloluwa Wojuade
   role: Junior, Computer Science Major at Morgan State University
-  image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  image: assets/images/oba Headshot.jpg
+  linkedin: https://www.linkedin.com/in/obwoj/
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
+    I’m currently a junior studying Computer Science at Morgan State  University in Baltimore, Maryland. I expect to graduate in 2027.
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
+    My work focuses on the intersection of artificial intelligence and real-world impact—how machine learning, data science, and cloud computing can be used to address healthcare disparities and improve system efficiency
 
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    From analyzing patient data to building cloud-integrated troubleshooting tools, I aim to create smart, scalable solutions that empower communities and enhance user experiences.
 
   hobbies:
     - icon: 🎺
