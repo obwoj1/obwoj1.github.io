@@ -31,7 +31,7 @@ about:
       caption: At a hackathon
     - image: /assets/images/me-basketball.png
       caption: At school
-    - image: /assets/images/me.jpg
+    - image: assets/images/me pingpong.jpeg
       caption: Playing ping pong
     - image: /assets/images/me-pi.png
       caption: Working on a personal project w/ the Raspberry PI
