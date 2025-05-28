@@ -33,6 +33,6 @@ about:
       caption: At school
     - image: assets/images/me pingpong.jpeg
       caption: Playing ping pong
-    - image: /assets/images/me-pi.png
+    - image: assets/images/mea.JPG
       caption: Me 
 ---
