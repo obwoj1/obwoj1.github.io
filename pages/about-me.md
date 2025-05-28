@@ -27,7 +27,7 @@ about:
       description: I love playing console games that offer an immersive experience.
 
   gallery:
-    - image: /assets/images/me-guitar.png
+    - image: assets/images/Me hackathon.JPG
       caption: At a hackathon
     - image: /assets/images/me-basketball.png
       caption: At school
