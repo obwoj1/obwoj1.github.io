@@ -16,23 +16,23 @@ about:
     From analyzing patient data to building cloud-integrated troubleshooting tools, I aim to create smart, scalable solutions that empower communities and enhance user experiences.
 
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
+    - icon: 🏓
+      title: Playing Ping Pong
       description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
     - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
+      title: Personal Projects
+      description: I enjoy building personal projects that showcase my interest and solve problems.
     - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+      title: Gaming
+      description: I love playing console games that offer an immersive experience.
 
   gallery:
     - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
+      caption: At a hackathon
     - image: /assets/images/me-basketball.png
-      caption: Hooping and dropping people off at the park 🏀
+      caption: At school
     - image: /assets/images/me.jpg
-      caption: My favorite portrait of myself :)
+      caption: Playing ping pong
     - image: /assets/images/me-pi.png
       caption: Working on a personal project w/ the Raspberry PI
 ---
