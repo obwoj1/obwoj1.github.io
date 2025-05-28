@@ -4,8 +4,8 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
+  name: Obaloluwa Wojuade
+  role: Junior, Computer Science Major at Morgan State University
   image: /assets/images/me.jpg
   linkedin: https://www.linkedin.com/in/taquavian-johnson/
   bio: |
