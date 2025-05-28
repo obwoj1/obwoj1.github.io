@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Jordan Bailey
   title: PhD Student, Electrical Engineering
-  image: /assets/images/graduate-student-mentor.jpg
+  image: /assets/images/ricky.jpeg
   website: https://gradmentor.example.com
   bio: |
     Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
@@ -16,7 +16,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Jamell Dacon
   title: Assistant Professor, Morgan State University
-  image: /assets/images/faculty-mentor.jpg
+  image: /assets/images/dr.jpeg
   website: https://facultymentor.example.com
   bio: |
     Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
