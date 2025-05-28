@@ -29,10 +29,10 @@ about:
   gallery:
     - image: assets/images/Me hackathon.JPG
       caption: At a hackathon
-    - image: /assets/images/me-basketball.png
+    - image: assets/images/Me morgan.JPG
       caption: At school
     - image: assets/images/me pingpong.jpeg
       caption: Playing ping pong
     - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+      caption: Me 
 ---
