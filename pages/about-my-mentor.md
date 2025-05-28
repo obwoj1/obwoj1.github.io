@@ -14,8 +14,8 @@ graduate_mentor:
     Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  title: Professor Emeritus, Tuskegee University
+  name: Dr. Jamell Dacon
+  title: Assistant Professor, Morgan State University
   image: /assets/images/faculty-mentor.jpg
   website: https://facultymentor.example.com
   bio: |
