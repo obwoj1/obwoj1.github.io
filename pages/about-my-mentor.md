@@ -4,12 +4,12 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Jordan Bailey
+  name: Ricky Gole
   title: PhD Student, Electrical Engineering
   image: /assets/images/ricky.jpeg
-  website: https://gradmentor.example.com
+  website: https://www.linkedin.com/in/ricky-gole/
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
+    Ricky Gole is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
     
     Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
 
@@ -17,10 +17,8 @@ faculty_mentor:
   name: Dr. Jamell Dacon
   title: Assistant Professor, Morgan State University
   image: /assets/images/dr.jpeg
-  website: https://facultymentor.example.com
+  website: https://daconjam.github.io/
   bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
-    
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
+    Dr. Jamell Dacon is a (Tenure-Track) Assistant Professor in the Department of Computer Science at Morgan State University, where he serves as the Director & Lead Principal Investigator of the Machine Intelligence and Data Science (MINDS) Lab, and a faculty at the Center for Equitable Artificial Intelligence and Machine Learning Systems (CEAMLS). His work is dedicated to harnessing AI, ML and Data Science to address both error and outcome disparities (e.g., poor system performance or non-interpretable results) — the core philosophy of his work is to better understand the complex relationships between technology and society.
 
 ---
