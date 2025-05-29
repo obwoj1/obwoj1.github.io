@@ -5,7 +5,7 @@ permalink: /about-my-mentor.html
 
 graduate_mentor:
   name: Ricky Gole
-  title: PhD Student, Electrical Engineering
+  title: Masters Student, Computer Science
   image: /assets/images/ricky.jpeg
   website: https://www.linkedin.com/in/ricky-gole/
   bio: |
