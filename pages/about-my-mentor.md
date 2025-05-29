@@ -9,7 +9,7 @@ graduate_mentor:
   image: /assets/images/ricky.jpeg
   website: https://www.linkedin.com/in/ricky-gole/
   bio: |
-    Ricky Gole is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
+    Ricky Gole is a PhD candidate in Computer Science and a graduate Mentor.
     
     Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
 
