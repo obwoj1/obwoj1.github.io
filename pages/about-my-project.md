@@ -4,7 +4,7 @@ title: About My Project
 permalink: /about-my-project.html
 
 subtitle: "AI-Driven Comorbidity Management in Type 1 Diabetes: A Reinforcement Learning Approach for Thyroid, Celiac, and Cardiovascular Disorders"
-project_title: "NeuroLink Assist: Adaptive Robotics through Brain Signal Decoding"
+project_title: "AI-Driven Comorbidity Management in Type 1 Diabetes: A Reinforcement Learning Approach for Thyroid, Celiac, and Cardiovascular Disorders"
 
 problem: |
   Individuals with severe motor disabilities often struggle with basic tasks that could be aided by robotic assistance. However, there is a lack of accessible and adaptive systems that respond naturally to the user's intent via brain-computer interfaces.
