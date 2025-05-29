@@ -11,7 +11,7 @@ graduate_mentor:
   bio: |
     Ricky Gole is a PhD candidate in Computer Science and a graduate Mentor.
     
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+    Beyond the lab, Ricky has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. His support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
 
 faculty_mentor:
   name: Dr. Jamell Dacon
