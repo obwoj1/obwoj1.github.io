@@ -9,7 +9,7 @@ graduate_mentor:
   image: /assets/images/ricky.jpeg
   website: https://www.linkedin.com/in/ricky-gole/
   bio: |
-    Hello guys Ricky Gole is a graduate student in Advanced Computing at Morgan State University, specializing in cybersecurity, cloud security, and artificial intelligence. With a solid foundation in IT infrastructure, internal controls, and risk management, he brings hands-on experience from roles in research, instruction, and technical consulting. Ricky has implemented security frameworks like Zero Trust Architecture in cloud IAM systems, deployed MFA solutions using CyberArk, and strengthened network defenses with tools like Sophos and Cisco Duo. Passionate about secure digital transformation, he combines academic excellence with practical skills to drive innovation and resilience in enterprise IT environments. this is a little about me
+    Ricky Gole is a graduate student in Advanced Computing at Morgan State University, specializing in cybersecurity, cloud security, and artificial intelligence. With a solid foundation in IT infrastructure, internal controls, and risk management, he brings hands-on experience from roles in research, instruction, and technical consulting. Ricky has implemented security frameworks like Zero Trust Architecture in cloud IAM systems, deployed MFA solutions using CyberArk, and strengthened network defenses with tools like Sophos and Cisco Duo. Passionate about secure digital transformation, he combines academic excellence with practical skills to drive innovation and resilience in enterprise IT environments.
 
 faculty_mentor:
   name: Dr. Jamell Dacon
